@@ -11,7 +11,7 @@ git clone https://github.com/alaajs/memotoken.git && cd memotoken && chmod +x Ve
 
 <br>
 
-# <p align="center" style="color: #14635c;" > api _ Token تنصيب سورس فير 
+ تنصيب سورس  
 
 ↯ افتـح ترمنـــأل وخلي هاي
 ```sh
