@@ -1,4 +1,4 @@
-﻿# <p align="center" style="color:#cb3349" > api بوت ميمو توكن - вσт νєя ™
+﻿# <p align="center" style="color:#cb3349" > api بوت ميمو توكن - вσт  ™
 
 
 ***
